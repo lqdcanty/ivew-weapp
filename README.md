@@ -1,8 +1,3 @@
-<p align="center">
-    <a href="https://weapp.iviewui.com">
-        <img width="200" src="https://file.iviewui.com/weapp-logo.svg">
-    </a>
-</p>
 
 # iView Weapp
 
